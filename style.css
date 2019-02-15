@@ -1,0 +1,23 @@
+/* resets */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.calendar-container
+{
+    background-color: lightblue;
+    height:100vh;
+}
+
+.text-container
+{
+    background-color: thistle;
+    height:100vh;
+}
+
+img {
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+}
