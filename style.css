@@ -30,6 +30,7 @@ html {
     height:100vh;
     padding: 32px;
     margin: 0;
+    overflow-y: scroll;
 }
 
 .text-container
