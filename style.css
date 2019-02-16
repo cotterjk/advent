@@ -1,23 +1,48 @@
-/* resets */
-* {
-    margin: 0;
-    padding: 0;
+/* global resets */
+* { margin:0; padding:0;}
+
+/* bootstrap resets */
+[class*='col-'] {
+    padding:0;
+    margin:0;
+}
+[class*='row'] {
+    padding:0;
+    margin:0;
 }
 
-.calendar-container
+html {
+    background-color: navy;
+}
+
+/* full page columns */
+.calendar-column
 {
-    background-color: lightblue;
+    background-color: maroon;
     height:100vh;
+    padding: 32px;
+    margin: 0;
+}
+
+.text-column
+{
+    background-color: thistle;
+    height:100vh;
+    padding: 32px;
+    margin: 0;
 }
 
 .text-container
 {
-    background-color: thistle;
-    height:100vh;
+    padding: 32px;
+    background-color: orange;
 }
 
 img {
     width: 100%;
-    bottom: 0;
     position: absolute;
+    bottom: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 32px;
 }

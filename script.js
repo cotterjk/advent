@@ -1,10 +1,12 @@
-var day_num = 1;
+var day_num = 0;
 
 
 
 var liturgy = [
    {
        "titleText" : "Day 00: It's not Advent",
+
+        "imgName" : "day00.png",
 
        "entryText" : "Come back on December 1st."
    },
@@ -13,8 +15,17 @@ var liturgy = [
    {
        "titleText" : "Day 01: The Turtle",
 
+       "imgName" : "day01.png",
+
       "entryText" : "Lorem ipsum turtle. <em>Italics work</em> <strong>and bold</strong> <br/><br/> and breaks."
-   }
+    },
+    {
+        "titleText" : "Day 02: The Snake",
+
+        "imgName" : "day02.png",
+
+        "entryText" : "Lorem ipsum snake. <em>Italics work</em> <strong>and bold</strong> <br/><br/> and breaks."
+    },
 ];
 
 ///////////////////////////////////////
@@ -29,8 +40,7 @@ function loadLiturgy() {
 }
 
 function loadCalendar() {
-    document.getElementById('day-title').innerHTML = liturgy[day_num].titleText;
-    document.getElementById('entry').innerHTML = liturgy[day_num].entryText;
+    document.getElementById('calendar-img').src = ("assets/images/" + liturgy[day_num].imgName);
 }
 
 
@@ -38,6 +48,7 @@ $( document ).ready(function() {
     console.log("### Loading page")
     ///
     ///
+    loadCalendar();
     loadLiturgy();
     ///
     ///
