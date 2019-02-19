@@ -47,3 +47,7 @@ img {
     box-sizing: border-box;
     padding: 32px;
 }
+
+.entrySource {
+    color: red;
+}

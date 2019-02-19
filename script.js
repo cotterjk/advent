@@ -4,23 +4,23 @@ var liturgy = [
 
         "imgName" : "day00.png",
 
-       "entryText" : "Come back on December 1st."
+       "entryText" : "Come back on Dec. 1"
    },
 
 
    {
-       "titleText" : "Day 01: The Turtle",
+       "titleText" : "Day 01:<br/>The Turtle",
 
        "imgName" : "day01.png",
 
-      "entryText" : "Lorem ipsum turtle. <em>Italics work</em> <strong>and bold</strong> <br/><br/> and breaks."
+      "entryText" : "Turtle lets go everything she knows,<br/>everything she loves,<br/>and sinks down, way down<br/>into the dark beneath the pond.<br/>She rests utterly in God’s care.<br/>She is lost to all the self<br/>she has ever known.<br/>She cannot protect herself.<br/>She can only be still and wait.<br/>And from that darkness,<br/>that utter still and perfect<br/>waiting.<br/>she may be reborn<br/>when the earth warms<br/>and the sun grows stronger<br/>again and begins its journey<br/>to the summer house.<br/><div class='entrySource'>—letter from a friend</div>"
     },
     {
-        "titleText" : "Day 02: The Snake",
+        "titleText" : "Day 02:<br/>The Snake",
 
         "imgName" : "day02.png",
 
-        "entryText" : "LONG-ASS LOREM IPSUM FOR TESTING SCROLLING THIS COLUMN WHILE THE REST OF THE PAGE STAYS FIXED<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        "entryText" : "At night<br/>under the trees<br/>the black snake<br/>jellies forward<br/>rubbing<br/>roughly<br/>the stems of the bloodroot,<br/>the yellow leaves,<br/>little boulders of bark,<br/>to take off<br/>the old life.<br/>I don’t know<br/>if he knows<br/>it will work.<br/>In the distance<br/>the moon and the stars<br/>give a little light.<br/>In the distance<br/>the owl cries out.<br/><br/>In the distance<br/>the owl cries out.<br/>The snake knows<br/>these are the owl’s woods,<br/>these are the woods of death,<br/>these are the woods of hardship<br/>where you crawl and rawl,<br/>where you live in the husks of trees,<br/>where you lie on the wild twigs<br/>and the cannot bear your weight,<br/>where life has no purpose<br/>and is neither civil nor intelligent.<br/><br/>Where life has no purpose,<br/>and is neither civil nor intelligent,<br/>it geins<br/>to rain,<br/>it begins<br/>to smell like the bodies<br/>of flowers.<br/>At the back of the neck<br/>the old skin splits.<br/>The snake shivers<br/>but does not hesitate.<br/>He inches forward.<br/>He begins to bleed through<br/>like satin.<br/><div class='entrySource'>—“The Forest” from “Rain” by Mary Oliver</div>"
     },
 ];
 
