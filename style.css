@@ -42,7 +42,7 @@ p {
 /* full page columns */
 .calendar-column
 {
-    background-color: #1B1140;
+    background-color: thistle;
     height:100vh;
     padding: 32px;
     margin: 0;
@@ -71,4 +71,21 @@ img {
     left: 0;
     box-sizing: border-box;
     padding: 32px;
+}
+
+.logo-container{
+    width: 4em;
+    margin: auto;
+    margin-bottom: 32px;
+}
+
+svg {
+    stroke:#FFDC95;
+    transition: ease .5s;
+}
+
+svg:hover {
+    transform: rotate(30deg);
+    opacity: 0.3;
+    transition: ease .2s;
 }
