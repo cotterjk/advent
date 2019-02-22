@@ -52,7 +52,6 @@ p {
 {
     background-color: #0E0326;
     height:100vh;
-    padding: 32px;
     margin: 0;
     overflow-y: scroll;
 }
@@ -60,6 +59,7 @@ p {
 .text-container
 {
     padding: 32px;
+    margin: 32px;
     background-color: #FFDC95;
 
 }
