@@ -21,7 +21,7 @@ var liturgy = [
 
         "imgName" : "day02.png",
 
-        "entryText" : "At night<br/>under the trees<br/>the black snake<br/>jellies forward<br/>rubbing<br/>roughly<br/>the stems of the bloodroot,<br/>the yellow leaves,<br/>little boulders of bark,<br/>to take off<br/>the old life.<br/>I don’t know<br/>if he knows<br/>it will work.<br/>In the distance<br/>the moon and the stars<br/>give a little light.<br/>In the distance<br/>the owl cries out.<br/><br/>In the distance<br/>the owl cries out.<br/>The snake knows<br/>these are the owl’s woods,<br/>these are the woods of death,<br/>these are the woods of hardship<br/>where you crawl and rawl,<br/>where you live in the husks of trees,<br/>where you lie on the wild twigs<br/>and the cannot bear your weight,<br/>where life has no purpose<br/>and is neither civil nor intelligent.<br/><br/>Where life has no purpose,<br/>and is neither civil nor intelligent,<br/>it geins<br/>to rain,<br/>it begins<br/>to smell like the bodies<br/>of flowers.<br/>At the back of the neck<br/>the old skin splits.<br/>The snake shivers<br/>but does not hesitate.<br/>He inches forward.<br/>He begins to bleed through<br/>like satin.<div class='entrySource'>—“The Forest” from “Rain” by Mary Oliver</div>"
+        "entryText" : "At night<br/>under the trees<br/>the black snake<br/>jellies forward<br/>rubbing<br/>roughly<br/>the stems of the bloodroot,<br/>the yellow leaves,<br/>little boulders of bark,<br/>to take off<br/>the old life.<br/>I don’t know<br/>if he knows<br/>it will work.<br/>In the distance<br/>the moon and the stars<br/>give a little light.<br/>In the distance<br/>the owl cries out.<br/><br/>In the distance<br/>the owl cries out.<br/>The snake knows<br/>these are the owl’s woods,<br/>these are the woods of death,<br/>these are the woods of hardship<br/>where you crawl and rawl,<br/>where you live in the husks of trees,<br/>where you lie on the wild twigs<br/>and the cannot bear your weight,<br/>where life has no purpose<br/>and is neither civil nor intelligent.<br/><br/>Where life has no purpose,<br/>and is neither civil nor intelligent,<br/>it begins<br/>to rain,<br/>it begins<br/>to smell like the bodies<br/>of flowers.<br/>At the back of the neck<br/>the old skin splits.<br/>The snake shivers<br/>but does not hesitate.<br/>He inches forward.<br/>He begins to bleed through<br/>like satin.<div class='entrySource'>—“The Forest” from “Rain” by Mary Oliver</div>"
     },
 
     {
@@ -237,7 +237,7 @@ function dayOfAdvent() {
         console.log ("It's day " + today.getDate() + ".");
 
     }
-    day_num = 2; // TESTING OVERRIDE until all days have images and entries
+    day_num = 3; // TESTING OVERRIDE until all days have images and entries
     return day_num;
 }
 
