@@ -12,13 +12,37 @@
 }
 
 html {
-    background-color: navy;
+    background-color: #1B1140;
+}
+
+h1 {
+    font-family: 'EB Garamond', serif;
+    font-size: 4em;
+    line-height: 1;
+    color: #0E0326;
+
+}
+
+p {
+    font-family: 'EB Garamond', serif;
+    font-size: 1.5em;
+    color: #0E0326;
+}
+
+#day-title {
+    padding-bottom: 32px;
+    margin: 0px;
+}
+
+.entrySource {
+    font-style: italic;
+    padding-top: 1em;
 }
 
 /* full page columns */
 .calendar-column
 {
-    background-color: maroon;
+    background-color: #1B1140;
     height:100vh;
     padding: 32px;
     margin: 0;
@@ -26,7 +50,7 @@ html {
 
 .text-column
 {
-    background-color: thistle;
+    background-color: #0E0326;
     height:100vh;
     padding: 32px;
     margin: 0;
@@ -36,7 +60,8 @@ html {
 .text-container
 {
     padding: 32px;
-    background-color: orange;
+    background-color: #FFDC95;
+
 }
 
 img {
@@ -46,8 +71,4 @@ img {
     left: 0;
     box-sizing: border-box;
     padding: 32px;
-}
-
-.entrySource {
-    color: red;
 }
