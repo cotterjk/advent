@@ -94,6 +94,14 @@ svg:hover {
     transition: ease .2s;
 }
 
+.calendar-img-up-to {
+  z-index: 999;
+}
+
+.calendar-img-single {
+  z-index:998;
+}
+
 .fade-in {
   opacity:0;  /* make things invisible upon start */
   -webkit-animation:fadeIn ease-in 1;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
@@ -109,10 +117,16 @@ svg:hover {
   animation-duration:1s;
 }
 
-.fade-in.calendar-img {
+.fade-in.calendar-img-single {
   -webkit-animation-delay: 0.8s;
   -moz-animation-delay: 0.8s;
   animation-delay: 0.8s;
+}
+
+.fade-in.calendar-img-up-to {
+  -webkit-animation-delay: 4s;
+  -moz-animation-delay: 4s;
+  animation-delay: 4s;
 }
 
 .fade-in.text-container {
