@@ -240,7 +240,7 @@ function dayOfAdvent() {
     } else {
       day_num = 0;
     }
-    // day_num = 3; // TESTING OVERRIDE until all days have images and entries
+    day_num = 7; // TESTING OVERRIDE until all days have images and entries
     return day_num;
 }
 
