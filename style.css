@@ -134,3 +134,9 @@ svg:hover {
   -moz-animation-delay:2.5s;
   animation-delay: 2.5s;
 }
+
+.fade-in.logo-container {
+  -webkit-animation-delay: 3s;
+  -moz-animation-delay:3s;
+  animation-delay: 3s;
+}
