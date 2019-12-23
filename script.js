@@ -185,7 +185,7 @@ var liturgy = [
     },
 
     {
-        "titleText" : "Day 23:<br/>The _Animals_",
+        "titleText" : "Day 23:<br/>The Animals",
 
         "imgName" : "23.png",
 
@@ -193,7 +193,7 @@ var liturgy = [
     },
 
     {
-        "titleText" : "Day 24:<br/>The _Other Animals_",
+        "titleText" : "Day 24:<br/>The Other Animals",
 
         "imgName" : "24.png",
 
