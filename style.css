@@ -1,6 +1,5 @@
 /* global resets */
 * { margin:0; padding:0;}
-
 /* bootstrap resets */
 [class*='col-'] {
     padding:0;
